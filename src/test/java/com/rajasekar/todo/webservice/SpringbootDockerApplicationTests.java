@@ -1,4 +1,4 @@
-package com.rajasekar.springboot.springbootdocker;
+package com.rajasekar.todo.webservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
